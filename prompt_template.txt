@@ -1,0 +1,19 @@
+Using the following Reddit posts/comments:
+
+{context}
+
+Generate a detailed user persona that includes:
+- Name (guess)
+- Age (guess)
+- Occupation (if any)
+- Interests
+- Writing style
+- Personality traits
+- Political leaning
+- Tech savviness
+
+For each trait, include:
+📌 Trait  
+🔍 Value  
+🧾 Supporting Comment  
+🔗 Reddit URL

@@ -1,0 +1,10 @@
+praw
+openai
+tiktoken
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+sentence-transformers
+tqdm
+python-dotenv
